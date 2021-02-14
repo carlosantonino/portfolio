@@ -623,3 +623,6 @@ footer{
   box-shadow:  0 0.1rem 0.6rem #00000009;
 }
 
+#preco {
+  padding-top: -20px;
+}
